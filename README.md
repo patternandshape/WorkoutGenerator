@@ -1,34 +1,30 @@
-# _Intensity Interval Workout Generator_
+# Microfit
 
-#### _Generates a Interval Workout based on user preferences, February, 2016_
+Microfit generates an interval workout based on user preferences.
 
-#### By _**Nic Netzel, Torrence Stratton, Molly Curtin, Jared Beckler**_
+February 5, 2016
 
-## Description
+##### By Nic Netzel, Torrence Stratton, Molly Curtin &amp; Jared Beckler
 
-_This website generates an interval workout based on user inputs.  The user selects the amount of time (in increments of 5 ranging from 5 - 30 minutes) they would like to workout, and optionally identifies equipment they have available, and/or specific body areas (upper, lower, core, cardio) that they would like to focus on.  The site semi randomly chooses exercises that fit the users input and displays them in sets of 5 exercises. In addition to explaining how to perform the exercises it also explains the pattern to follow and provides an animated gif timer to show 20 seconds of exertion and 10 seconds of rest._
+### Description
 
-## Setup/Installation Requirements
+This website generates an interval workout based on user inputs. The user selects the amount of time (in increments of 5 ranging from 5 - 30 minutes) they would like to workout, and optionally identifies equipment they have available, and/or specific body areas (upper, lower, core, cardio) that they would like to focus on. The site semi randomly chooses exercises that fit the users input and displays them in sets of 5 exercises. In addition to explaining how to perform the exercises it also explains the pattern to follow and provides an animated gif timer to show 20 seconds of exertion and 10 seconds of rest.
 
-* _Run the app on GitHub Pages [here] (http://netzeln.github.io/WorkoutGenerator/)_
-* _Check out our repository here: (https://github.com/netzeln/WorkoutGenerator)_
+Microfit can be viewed at http://netzeln.github.io/WorkoutGenerator
+
+### Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+* jQuery
+* Bootstrap
+* Adobe Photoshop
+* Google Fonts
 
 
-## Known Bugs
+##### License
 
-* _Currently, short of refreshing the page (and thus erasing the workout), there is no way to "Reset" the timer once the .gif loads._
-* _Tablet viewpoint could be optimized for a better user experience._
+*This software is licensed under the MIT license.*
 
-## Support and contact details
-
-_If you have ideas or suggestions please contact us. Feel free to adapt or add features._
-
-## Technologies Used
-
-_HTML, CSS, Bootstrap, Javascript, jQuery, photoshop, google fonts_
-
-### License
-
-**This software is licensed under the MIT license.**
-
-Copyright (c) 2016 **_{Jared Beckler, Molly Curtin, Nic Netzel, Torrence Stratton}_**
+&copy; 2016 **Nic Netzel, Torrence Stratton, Molly Curtin &amp; Jared Beckler**
